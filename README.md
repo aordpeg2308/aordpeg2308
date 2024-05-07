@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1 align="left">Hola a todos/as</h1>
 
-<!--
-**aordpeg2308/aordpeg2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Me llamo Alejandro, soy estudiante del ciclo formativo Desarrollo de Aplicaciones Web en el IES Fernando III</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+###
+
+<h2 align="left">Sobre mi</h2>
+
+###
+
+<p align="left">✨ Me encanta leer código y sacar fallos<br>📚 Proactivo a aprender nuevas tecnologías<br>🎯 Mi meta aumentar mi formación y ser un experto en el campo.<br>🎲 Algo divertido sobre mi es que soy fanático de los capibaras.</p>
+
+###
+
+<h2 align="left">Se trabajar con las siguientes tecnologías</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+###
 -->
