@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Me encanta leer código y sacar fallos<br>📚 Proactivo a aprender nuevas tecnologías<br>🎯 Mi meta aumentar mi formación y ser un experto en el campo.<br>🎲 Algo divertido sobre mi es que soy fanático de los capibaras.</p>
+<p align="left">✨ Me encanta leer código y sacar fallos<br>📚 Proactivo a aprender nuevas tecnologías<br>🎯 Mi meta es aumentar mi formación y ser un experto en el campo.<br>🎲 Algo divertido sobre mi es que soy fanático de los capibaras.</p>
 
 ###
 
@@ -42,6 +42,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 </div>
 
-
-###
--->
