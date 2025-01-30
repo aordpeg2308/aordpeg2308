@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me llamo Alejandro, soy estudiante del ciclo formativo Desarrollo de Aplicaciones Web en el IES Fernando III</p>
+<p align="left">Me llamo Alejandro, soy estudiante de DAW en el IES Fernando III</p>
 
 ###
 
