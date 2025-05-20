@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me llamo Alejandro, soy estudiante de DAW en el IES Fernando III</p>
+<p align="left">Me llamo Alejandro, soy programador web y me encanta trastear con todo tipos de códigos.
 
 ###
 
